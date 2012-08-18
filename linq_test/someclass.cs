@@ -8,6 +8,6 @@ namespace linq_test
 	class someclass
 	{
 		private int i = 1;
-		private int o = 1;
+		private int o = 177;
 	}
 }
